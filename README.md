@@ -6,6 +6,7 @@ Tool originally created by Oliver Beattie https://github.com/obeattie, Twitter @
 ## Google Maps API Key ##
 You will need a Google Maps API Key.
 https://developers.google.com/maps/documentation/embed/get-api-key
+
 Add your Key to line 55 `YOUR_API_KEY`.
 
 ## Map Options ##
