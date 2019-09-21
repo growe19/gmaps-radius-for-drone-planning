@@ -32,9 +32,8 @@ Units available:
 - `rd`: Rods
 - `fr`: Furlongs
 
-URL Example:
-`index.html?r=50&u=mt`: will load a default setting of 50 metres
+URL Example `index.html?r=50&u=mt` will load a default setting of 50 metres.
 
-Controls:
+## Tool Controls ##
 - `Mouse Left Click`: Create circle
 - `Mouse Right Click`: Delete circle
